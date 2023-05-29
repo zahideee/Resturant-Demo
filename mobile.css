@@ -94,7 +94,7 @@ font-family: 'Roboto', sans-serif; */
 
 
 .banar{
-    background-image: url(./img/a.JPG);
+    background-image: url(img/a.JPG);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
